@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run clear && npx cucumber-js --require-module ts-node/register && npm run generate-report",
+    "generate-report": "ts-node ./config/GenerateReport.ts",
+    "clear": "rm -rf ./reports/*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "multiple-cucumber-html-reporter": "^3.9.2"
+  }
+}
