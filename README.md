@@ -43,3 +43,10 @@ Para este ejercicio se utilizó el framework de Playwright.
 Al finalizar, se generará un archivo `index.html` en la ruta `reports/` del proyecto con el reporte de ejecución, que incluye el paso a paso y la captura final de la página.
 
 ### ejercicio_3: Tratamiento de datos en APIs
+Para este ejecicio se utilizo el framework de Karate.
+
+**Instrucciones de ejecución:**
+1. Ubicarse desde la consola dentro del fichero `ejercicio_3`
+2. Ejecutar `mvn clean test`
+
+Al finalizar, se generará un archivo `karate-summary.html` en la ruta `target/karate-reports/` del proyecto con el reporte de ejecución, que incluye el paso a paso y los resultados pedidos en los tres puntos de este ejercicio
