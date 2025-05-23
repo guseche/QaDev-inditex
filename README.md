@@ -33,7 +33,7 @@ El repositorio está organizado en tres carpetas principales:
 ### ejercicio_1: Prueba exploratoria y reporte
 
 ### ejercicio_2: Automatización de una web
-Para este ejercicio se utilizó el framework de Cypress.
+Para este ejercicio se utilizó el framework de Playwright.
 
 **Instrucciones de ejecución:**
 1. Ubicarse desde la consola dentro del fichero `ejercicio_2`
