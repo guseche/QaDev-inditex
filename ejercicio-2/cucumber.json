@@ -1,0 +1,17 @@
+{
+    "default": {
+        "paths": [
+            "e2e/features/"
+        ],
+        "require": [
+            "e2e/steps-definitions/*.ts","e2e/support/hooks/*.ts"
+        ],
+        "formatOptions": {
+            "snippetInterface": "async-await"
+        },
+        "format": [
+            "summary",
+            "json:./reports/cucumber-report.json"
+        ]
+    }
+}
