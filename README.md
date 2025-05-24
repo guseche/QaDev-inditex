@@ -31,6 +31,7 @@ Gabriel Jaime Useche Ossa
 El repositorio está organizado en tres carpetas principales:
 
 ### ejercicio_1: Prueba exploratoria y reporte
+Para este ejecicio de encontrar la soluicion en [Solucion](ejercicio-1/solucion-1.md).
 
 ### ejercicio_2: Automatización de una web
 Para este ejercicio se utilizó el framework de Playwright.

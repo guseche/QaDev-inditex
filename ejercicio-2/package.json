@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@cucumber/cucumber": "^11.3.0",
+    "ejercicio-2": "file:",
     "multiple-cucumber-html-reporter": "^3.9.2"
   }
 }
